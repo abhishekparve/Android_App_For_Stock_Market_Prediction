@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Stock_Market_Prediction_Android</string>
+    <string name="stock_symbol_hint">Stock symbol here</string>
+    <string name="date_hint">Current date here</string>
+    <string name="button_text">Predict </string>
+    <string name="results_text">Results here</string>
+</resources>
